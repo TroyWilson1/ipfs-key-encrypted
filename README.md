@@ -1,3 +1,5 @@
+# THIS IS NOT CORRECT INFO - NEED TO UPDATE README.md
+
 # ipfs-key-encrypted
 
 This script takes a file or directroy as input, uses tar if a directory and GPG Key encryption you provide and adds it to IPFS and returns the IPFS hash. 
